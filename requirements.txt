@@ -16,7 +16,7 @@ halo==0.0.30
 idna==2.8
 isort==4.3.4
 itsdangerous==1.1.0
-Jinja2==2.11.2
+Jinja2==2.11.3
 jmespath==0.10.0
 junit-xml==1.9
 log-symbols==0.0.14
