@@ -10,7 +10,7 @@ cloudrail==0.1.213
 colorama==0.4.3
 dataclasses-json==0.5.2
 fake-useragent==0.1.11
-Flask==0.12.2
+Flask==2.2.5
 future==0.17.1
 halo==0.0.30
 idna==2.8
